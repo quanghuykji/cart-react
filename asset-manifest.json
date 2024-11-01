@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/cart-react/static/css/main.73d9794a.css",
+    "main.js": "/cart-react/static/js/main.0eb20b2e.js",
+    "static/js/703.3eb8546d.chunk.js": "/cart-react/static/js/703.3eb8546d.chunk.js",
+    "static/js/513.a1b514e7.chunk.js": "/cart-react/static/js/513.a1b514e7.chunk.js",
+    "static/js/787.f5848fed.chunk.js": "/cart-react/static/js/787.f5848fed.chunk.js",
+    "static/media/vnsim.png": "/cart-react/static/media/vnsim.f2df1d7ead56d88e415d.png",
+    "static/media/fa-solid-900.ttf": "/cart-react/static/media/fa-solid-900.de78ce19b6954a6f4144.ttf",
+    "static/media/fa-brands-400.ttf": "/cart-react/static/media/fa-brands-400.c90f83fd0c6c34dd638f.ttf",
+    "static/media/fa-solid-900.woff2": "/cart-react/static/media/fa-solid-900.5cb518f1dd00e7374eb8.woff2",
+    "static/media/fa-brands-400.woff2": "/cart-react/static/media/fa-brands-400.123e8cfb2b8bcdef2c3a.woff2",
+    "static/media/feature-right.jpg": "/cart-react/static/media/feature-right.01ad26795580300e2029.jpg",
+    "static/media/fa-regular-400.ttf": "/cart-react/static/media/fa-regular-400.ce1650acad36ae1d3c93.ttf",
+    "static/media/light.png": "/cart-react/static/media/light.b60a29f1437724de6931.png",
+    "static/media/profile.jpg": "/cart-react/static/media/profile.7e220d8a749ff31feac9.jpg",
+    "static/media/banner-bg.jpg": "/cart-react/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/dark.png": "/cart-react/static/media/dark.d712e5f32f461862f250.png",
+    "static/media/banner-login.jpg": "/cart-react/static/media/banner-login.c7ebb3da352077d96580.jpg",
+    "static/media/fa-regular-400.woff2": "/cart-react/static/media/fa-regular-400.86fd3b02c25ecde4a02b.woff2",
+    "static/media/popular-06.jpg": "/cart-react/static/media/popular-06.193c1358cf48df9af86f.jpg",
+    "static/media/fa-v4compatibility.ttf": "/cart-react/static/media/fa-v4compatibility.f2268f438379a3e39843.ttf",
+    "static/media/fa-v4compatibility.woff2": "/cart-react/static/media/fa-v4compatibility.a9f39cf4a35334e80396.woff2",
+    "index.html": "/cart-react/index.html",
+    "main.73d9794a.css.map": "/cart-react/static/css/main.73d9794a.css.map",
+    "main.0eb20b2e.js.map": "/cart-react/static/js/main.0eb20b2e.js.map",
+    "703.3eb8546d.chunk.js.map": "/cart-react/static/js/703.3eb8546d.chunk.js.map",
+    "513.a1b514e7.chunk.js.map": "/cart-react/static/js/513.a1b514e7.chunk.js.map",
+    "787.f5848fed.chunk.js.map": "/cart-react/static/js/787.f5848fed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d9794a.css",
+    "static/js/main.0eb20b2e.js"
+  ]
+}
